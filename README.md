@@ -4,7 +4,7 @@
 
 ### Building useful things at the intersection of code, curiosity, and craft.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kekeli101/portfolio-website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://owusu-kekeli.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kekeli101)
 
 </div>
