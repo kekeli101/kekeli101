@@ -4,7 +4,7 @@
 
 ### Building useful things at the intersection of code, curiosity, and craft.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://owusu-kekeli.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kekeli101/portfolio-website)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kekeli101)
 
 </div>
@@ -22,6 +22,12 @@ focus       → product-minded software
 currently   → learning, building, iterating
 principle   → make it work · make it clear · make it better
 ```
+
+## Currently building
+
+- Shipping cleaner, more useful web experiences
+- Exploring machine learning through practical projects
+- Deepening my C and embedded-systems foundations
 
 ## Selected work
 
@@ -57,7 +63,19 @@ principle   → make it work · make it clear · make it better
 
 <div align="center">
 
+![Kekeli's contribution graph](https://ghchart.rshah.org/0d1117/kekeli101)
+
+</div>
+
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=kekeli101&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=kekeli101&theme=onedark&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
