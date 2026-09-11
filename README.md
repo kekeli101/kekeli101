@@ -73,12 +73,6 @@ principle   → make it work · make it clear · make it better
 
 </div>
 
-<div align="center">
-
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=kekeli101&theme=onedark&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 <div align="center">
