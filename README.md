@@ -51,8 +51,7 @@ principle   → make it work · make it clear · make it better
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kekeli101&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="Kekeli's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekeli101&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Kekeli's most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kekeli101&theme=github_dark" alt="Kekeli's GitHub profile summary" />
 
 </div>
 
