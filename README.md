@@ -61,6 +61,12 @@ principle   → make it work · make it clear · make it better
 
 </div>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kekeli101&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 ---
 
 <div align="center">
