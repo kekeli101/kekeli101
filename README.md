@@ -63,7 +63,7 @@ principle   → make it work · make it clear · make it better
 
 <div align="center">
 
-![Kekeli's contribution graph](https://ghchart.rshah.org/0d1117/kekeli101)
+![Kekeli's contribution graph](https://ghchart.rshah.org/39d353/kekeli101)
 
 </div>
 
