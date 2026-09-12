@@ -67,6 +67,18 @@ principle   → make it work · make it clear · make it better
 
 </div>
 
+## Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ADD--YOUR--LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
+[![X](https://img.shields.io/badge/X%2FTwitter-ADD--YOUR--HANDLE-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-username)
+[![Instagram](https://img.shields.io/badge/Instagram-ADD--YOUR--HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)
+[![Email](https://img.shields.io/badge/Email-ADD--YOUR--EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-ADD--YOUR--USERNAME-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-user-id)
+
+</div>
+
 ---
 
 <div align="center">
