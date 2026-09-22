@@ -71,10 +71,10 @@ principle   → make it work · make it clear · make it better
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owusu-kekeli-prince-973871299)
-[![X](https://img.shields.io/badge/X%2FTwitter-HANDLE-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@adentaspiderman)
-[![Email](https://img.shields.io/badge/Email-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owusukekeliprince@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-USERNAME-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/dr_kelly1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OWUSU-KEKELI-PRINCE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owusu-kekeli-prince-973871299)
+[![X](https://img.shields.io/badge/X%2FTwitter-ADENTASPIDERMAN-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@adentaspiderman)
+[![Email](https://img.shields.io/badge/Email-OWUSUKEKELIPRINCE-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owusukekeliprince@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-DRKELLY-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/dr_kelly1)
 
 </div>
 
